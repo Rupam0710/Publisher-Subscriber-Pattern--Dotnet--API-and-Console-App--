@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rupam.pal\\Personal Projects\\Publisher Subscriber Pattern\\Subscriber2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7A1EF4-89C7-4810-A2E5-AF3FFDC551B0}|Subscriber\\Subscriber.csproj|c:\\users\\rupam.pal\\personal projects\\publisher subscriber pattern\\subscriber2\\subscriber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7A1EF4-89C7-4810-A2E5-AF3FFDC551B0}|Subscriber\\Subscriber.csproj|solutionrelative:subscriber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7A1EF4-89C7-4810-A2E5-AF3FFDC551B0}|Subscriber\\Subscriber.csproj|c:\\users\\rupam.pal\\personal projects\\publisher subscriber pattern\\subscriber2\\subscriber\\dtos\\messagereaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7A1EF4-89C7-4810-A2E5-AF3FFDC551B0}|Subscriber\\Subscriber.csproj|solutionrelative:subscriber\\dtos\\messagereaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MessageReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\rupam.pal\\Personal Projects\\Publisher Subscriber Pattern\\Subscriber2\\Subscriber\\DTOs\\MessageReadDto.cs",
+              "RelativeDocumentMoniker": "Subscriber\\DTOs\\MessageReadDto.cs",
+              "ToolTip": "C:\\Users\\rupam.pal\\Personal Projects\\Publisher Subscriber Pattern\\Subscriber2\\Subscriber\\DTOs\\MessageReadDto.cs",
+              "RelativeToolTip": "Subscriber\\DTOs\\MessageReadDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T08:14:54.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rupam.pal\\Personal Projects\\Publisher Subscriber Pattern\\Subscriber2\\Subscriber\\Program.cs",
+              "RelativeDocumentMoniker": "Subscriber\\Program.cs",
+              "ToolTip": "C:\\Users\\rupam.pal\\Personal Projects\\Publisher Subscriber Pattern\\Subscriber2\\Subscriber\\Program.cs",
+              "RelativeToolTip": "Subscriber\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAuwDIAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T08:11:55.267Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

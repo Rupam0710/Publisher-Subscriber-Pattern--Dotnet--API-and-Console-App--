@@ -1,0 +1,14 @@
+1. Create the web api in VS Code by - dotnet new webapi -minimal -n MessageBroker
+2. Change directory to MessageBroker 
+3. Open MessageBroker in terminal - code . -r
+4. Refactor code in launchSettings.json
+5. In MessageBroker.csproj file add by opening terminal -
+   dotnet add package Micrsoft.EntityFrameworkCore.Sqlite
+   dotnet add package Micrsoft.EntityFrameworkCore.Design
+6. Create a model folder and inside it created models for topic , subscription,message
+7. Create a data folder and inside it create a AppDbContext.
+8. Create a migration by Typing Add-Migration initial in package manager console and then Update-Database.
+9. Put the connection string in appsettings.json and in program.cs pass the value.
+10. Add api endpoints in program.cs
+
+   
