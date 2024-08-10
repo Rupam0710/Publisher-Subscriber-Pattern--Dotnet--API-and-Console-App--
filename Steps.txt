@@ -10,5 +10,21 @@
 8. Create a migration by Typing Add-Migration initial in package manager console and then Update-Database.
 9. Put the connection string in appsettings.json and in program.cs pass the value.
 10. Add api endpoints in program.cs
+11. Configure the endpoints in Postman or Insomnia or ThunderClient
+12. Test your endpoints
+13. Create your Subscriber by creating a new Console App.
+14. Add endpoints for GetMessage from MessageBroker and acknowledge them and send it back.
+
+How to run the app:
+1. Launch the Web App MessageBroker
+2. Open Insomnia or Postman and check if the PubLish Message endpoint is returning a 200 or not
+3. Launch Both the Subscribers
+4. Open the terminal for both subscribers side by side in one screen.
+5. Open the Insomnia or Postman in another screen.
+6. Publish a message from MessageBroker i.e. send post request for publishing message.
+7. You can see the message getting acknowledged by the subscriber at their own pace.
+
+
+Here your Publisher and Subscriber is ready for you.
 
    
